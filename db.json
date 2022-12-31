@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "ali",
+      "pass": "123"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "pen",
+      "qty": 5,
+      "price": 300
+    },
+    {
+      "name": [
+        "marker"
+      ],
+      "price": [
+        "300"
+      ],
+      "qty": [
+        "23"
+      ],
+      "id": 2
+    }
+  ]
+}
